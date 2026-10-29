@@ -62,7 +62,6 @@ function toggleAllNavSections(sections, expanded = false) {
   });
 }
 
-
 /**
  * Toggles the entire nav
  * @param {Element} nav The container element
